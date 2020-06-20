@@ -12,6 +12,7 @@
 	<artifactId>RestaurantMngSys</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>RestaurantMngSys</name>
+	<packaging>war</packaging>
 	<description>mini project for Spring Boot</description>
 
 	<properties>
